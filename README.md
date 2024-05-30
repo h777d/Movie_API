@@ -74,7 +74,7 @@ The project connects to an IMDb SQLite database. Ensure the database file is ava
 ## Dataset Description
 This dataset is an SQLite database containing detailed information about movies and directors, derived from IMDb data. The database is designed to facilitate querying and analysis of movie-related data, including director information, movie titles, ratings, and other attributes.
 
-#Database Schema
+### Database Schema
 The database consists of the following tables:
 
 1. movies
