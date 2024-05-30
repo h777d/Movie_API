@@ -44,7 +44,6 @@ Define the path to the IMDb SQLite database file: Update the DATABASE_PATH varia
 Run the FastAPI server:
 
 ```bash
-Copy code
 uvicorn movie_api:app --reload
 ```
 Access the API: Open your browser and navigate to http://127.0.0.1:8000. You can also explore the interactive API documentation at http://127.0.0.1:8000/docs.
