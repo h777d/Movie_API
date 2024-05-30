@@ -1,0 +1,8 @@
+IPython
+Fastapi
+sqlite3
+matplotlib
+numpy
+pandas
+scipy
+seaborn
